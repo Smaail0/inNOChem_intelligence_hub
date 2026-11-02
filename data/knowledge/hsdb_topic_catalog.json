@@ -1,0 +1,894 @@
+{
+  "InformationList": {
+    "Annotation": [
+      {
+        "Heading": "13C NMR Spectra",
+        "Type": "Compound",
+        "Description": "Carbon-13 nuclear magnetic resonance (NMR) spectroscopy (also known as 13C NMR) is a version of NMR spectroscopy used to elucidate the structure of carbon-containing compounds.",
+        "Count": 118
+      },
+      {
+        "Heading": "1D NMR Spectra",
+        "Type": "Compound",
+        "Description": "One-dimensional (1D) nuclear magnetic resonance (NMR) spectra.",
+        "Count": 1285
+      },
+      {
+        "Heading": "1H NMR Spectra",
+        "Type": "Compound",
+        "Description": "Hydrogen-1 nuclear magnetic resonance (NMR) spectroscopy (also known as H1 NMR or proton NMR) is a version of NMR spectroscopy used to elucidate the structure of hydrogen-containing compounds.",
+        "Count": 14
+      },
+      {
+        "Heading": "Acceptable Daily Intakes",
+        "Type": "Compound",
+        "Description": "An estimate of the amount of a chemical in food or drinking water that can be consumed daily over a lifetime without presenting an appreciable risk to health. It is usually expressed as milligrams of the substance per kilogram of body weight per day and applies to chemicals such as food additives, pesticide residues and veterinary drugs.",
+        "Count": 264
+      },
+      {
+        "Heading": "Allowable Tolerances",
+        "Type": "Compound",
+        "Description": "The tolerances of a chemical (usually a pesticide) are the maximum amount of chemical residues allowed to remain in or on fruits, vegetables, grains, and other foods, as part of the process of regulating pesticides. In some countries tolerances are called maximum residue limits (MRLs).",
+        "Count": 740
+      },
+      {
+        "Heading": "Analytic Laboratory Methods",
+        "Type": "Compound",
+        "Description": "Analytic laboratory methods for analyzing this compound in a sample. The information in this section is collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+        "Count": 3336
+      },
+      {
+        "Heading": "Animal Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this compound in animals.",
+        "Count": 316
+      },
+      {
+        "Heading": "Antidote and Emergency Treatment",
+        "Type": "Compound",
+        "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+        "Count": 4178
+      },
+      {
+        "Heading": "Artificial Pollution Sources",
+        "Type": "Compound",
+        "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+        "Count": 3326
+      },
+      {
+        "Heading": "Associated Chemicals",
+        "Type": "Compound",
+        "Description": "Chemicals related to this compound, according to the Hazardous Substances Data Bank (HSDB).  It includes stereoisomers (e.g., enantiomers, cis-trans isomers), salt forms, mixtures, and structural analogues, etc.",
+        "Count": 1306
+      },
+      {
+        "Heading": "Atmospheric Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this compound in the atmosphere. ",
+        "Count": 1007
+      },
+      {
+        "Heading": "Atmospheric Standards",
+        "Type": "Compound",
+        "Description": "This section provides atmospheric standards related to the chemical, established by regulatory agencies.",
+        "Count": 706
+      },
+      {
+        "Heading": "Autoignition Temperature",
+        "Type": "Compound",
+        "Description": "The lowest temperature at which the substance will spontaneously ignite in a normal atmosphere without an external source of ignition (e.g., spark or flame).",
+        "Count": 596
+      },
+      {
+        "Heading": "Average Daily Intake",
+        "Type": "Compound",
+        "Description": "The average amount of the compound taken into the body through eating, drinking, or breathing.",
+        "Count": 400
+      },
+      {
+        "Heading": "Biological Half-Life",
+        "Type": "Compound",
+        "Description": "The time required for a biological system (e.g., human body) to eliminate, by natural processes, half of the amount of a chemical (e.g., alcohol, medication, or radioactive material) that has entered it.",
+        "Count": 1586
+      },
+      {
+        "Heading": "Bionecessity",
+        "Type": "Compound",
+        "Description": "Bionecessity information related to this compound, collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+        "Count": 158
+      },
+      {
+        "Heading": "Body Burden",
+        "Type": "Compound",
+        "Description": "Total amount of a chemical present in an organism at a given time.",
+        "Count": 742
+      },
+      {
+        "Heading": "Boiling Point",
+        "Type": "Compound",
+        "Description": "The temperature at which this compound changes state from liquid to gas at a given atmospheric pressure.",
+        "Count": 2696
+      },
+      {
+        "Heading": "CAS",
+        "Type": "Compound",
+        "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+        "Count": 5934
+      },
+      {
+        "Heading": "CERCLA Reportable Quantities",
+        "Type": "Compound",
+        "Description": "The CERCLA reportable quantity for a hazardous substance is the minimum quantity of the substance which, if released, must be reported, under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA, also commonly known as Superfund).",
+        "Count": 926
+      },
+      {
+        "Heading": "Clean Water Act Requirements",
+        "Type": "Compound",
+        "Description": "The Clean Water Act (CWA) of 1972 establishes the basic structure for regulating discharges of pollutants into the waters of the United States and regulating quality standards for surface waters.  Under CWA, the U.S. Environmental Protection Agency (EPA) developed the Toxic Pollutant List (40 CFR Part 401.15) and the Priority Pollutant List (40 CFR Part 423, Appendix A). These lists are to be used by EPA and States to develop the Effluent Guidelines regulations and ensure water quality criteria and standards.",
+        "Count": 714
+      },
+      {
+        "Heading": "Cleanup Methods",
+        "Type": "Compound",
+        "Description": "Procedures for cleanup of chemical spill or hazardous waste",
+        "Count": 2615
+      },
+      {
+        "Heading": "Clinical Laboratory Methods",
+        "Type": "Compound",
+        "Description": "Clinical laboratory methods for detecting, isolating, separating, and/or analyzing this compound in a sample.  The information in this section is collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+        "Count": 1520
+      },
+      {
+        "Heading": "Color/Form",
+        "Type": "Compound",
+        "Description": "Color is the aspect of any object that may be described in terms of hue, lightness, and saturation.",
+        "Count": 4878
+      },
+      {
+        "Heading": "Consumption Patterns",
+        "Type": "Compound",
+        "Description": "Consumption patterns of this chemical and products containing it, collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+        "Count": 1054
+      },
+      {
+        "Heading": "Corrosivity",
+        "Type": "Compound",
+        "Description": "The ability of a chemical to damage or destroy other substances when it comes into contact.",
+        "Count": 654
+      },
+      {
+        "Heading": "Critical Temperature and Pressure",
+        "Type": "Compound",
+        "Description": "The critical temperature of a substance is the temperature at and above which vapor of the substance cannot be liquefied, no matter how much pressure is applied. The critical pressure of a substance is the pressure required to liquefy a gas at its critical temperature.",
+        "Count": 496
+      },
+      {
+        "Heading": "DOT Emergency Guidelines",
+        "Type": "Compound",
+        "Description": "U.S. Department of Transportation (DOT) Emergency Guidelines for this chemical.  The information in this section is collected from the Hazardous Substances Data Bank (HSDB).  For updated emergency guidelines, see the DOT Emergency Response Guidebook.",
+        "Count": 1310
+      },
+      {
+        "Heading": "Decomposition",
+        "Type": "Compound",
+        "Description": "Information on the decomposition of this compound, including the decomposition conditions and products.",
+        "Count": 3170
+      },
+      {
+        "Heading": "Density",
+        "Type": "Compound",
+        "Description": "This section provides information on the density (with unit) and specific gravity (without unit) of a compound. Density is mass of a unit volume of a compound and commonly expressed in units of kg/m3 or g/cm3. Specific gravity, also known as relative density, is a unit-less quantity, defined as the ratio of the density of a compound to that of a standard reference material (typically, water at 4 °C for liquids and air at room temperature [20 °C or 68 °F] for gases).",
+        "Count": 3141
+      },
+      {
+        "Heading": "Dielectric Constant",
+        "Type": "Compound",
+        "Description": "Dielectric constant (also known as relative permittivity) is defined as the ratio of the electric permeability of the material to the electric permeability of free space (i.e., vacuum).  It describes the ability to polarize a material subjected to an electrical field.",
+        "Count": 3
+      },
+      {
+        "Heading": "Dispersion",
+        "Type": "Compound",
+        "Description": "In optics, dispersion is defined as the spreading of white light into its full spectrum of wavelengths when it passes through an object.  Dispersion occurs whenever the propagation of light depends on wavelength (i.e., when the velocities of different components of a light wave depend on the wavelengths of those components).",
+        "Count": 1
+      },
+      {
+        "Heading": "Disposal Methods",
+        "Type": "Compound",
+        "Description": "Disposal methods or procedures for this chemical or hazardous waste containing it.",
+        "Count": 5017
+      },
+      {
+        "Heading": "Dissociation Constants",
+        "Type": "Compound",
+        "Description": "A specific type of equilibrium constant that measures the propensity of a larger object to separate (dissociate) reversibly into smaller components, as when a complex falls apart into its component molecules, or when a salt splits up into its component ions. This includes pKa (the negative logarithm of the acid dissociation constant) and pKb (the negative logarithm of the base dissociation constant).",
+        "Count": 1120
+      },
+      {
+        "Heading": "Drug Idiosyncrasies",
+        "Type": "Compound",
+        "Description": "An abnormal individual response to a drug causing an effect quite different from that expected. Idiosyncrasy is inherent in the person concerned and is usually due to a genetic anomaly. It may take the form of hypersensitivity so that the normal effect is produced by a dose which is a small fraction of the standard dose.",
+        "Count": 76
+      },
+      {
+        "Heading": "Drug Tolerance",
+        "Type": "Compound",
+        "Description": "Drug tolerance refers to the reduced reaction of the body to a drug following its repeated use. Although increasing its dosage may re-amplify the drug's effects, this may accelerate tolerance, further reducing the drug's effects.  This section provides information on drug tolerance in humans and other species.",
+        "Count": 208
+      },
+      {
+        "Heading": "Drug Warnings",
+        "Type": "Compound",
+        "Description": "Drug warnings information collected by external sources such as the Hazardous Substances Data Bank (HSDB) from various sources, including US Pharmacopeia (USP), physicians desk references, MSDS, etc.",
+        "Count": 1477
+      },
+      {
+        "Heading": "EPA Hazardous Waste Number",
+        "Type": "Compound",
+        "Description": "Identifier for hazardous waste containing this chemical.",
+        "Count": 649
+      },
+      {
+        "Heading": "Ecotoxicity Excerpts",
+        "Type": "Compound",
+        "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+        "Count": 1202
+      },
+      {
+        "Heading": "Ecotoxicity Values",
+        "Type": "Compound",
+        "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+        "Count": 1757
+      },
+      {
+        "Heading": "Effluent Concentrations",
+        "Type": "Compound",
+        "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+        "Count": 1421
+      },
+      {
+        "Heading": "Emergency Response Planning Guidelines",
+        "Type": "Compound",
+        "Description": "Emergency Response Planning Guidelines (ERPGs) are air concentration guidelines for single exposures to agents, developed by the American Industrial Hygiene Association (AIHA).  They are intended for use as tools to assess the adequacy of accident prevention and emergency response plans, including transportation emergency planning, community emergency response plans, and incident prevention and mitigation.  ERPGs estimate the concentrations at which most people will begin to experience health effects if they are exposed to a hazardous airborne chemical for 1 hour. (Sensitive members of the public, such as old, sick, or very young people, aren't covered by these guidelines and they may experience adverse effects at concentrations below the ERPG values.) A chemical may have up to three ERPG values, each of which corresponds to a specific tier of health effects. ",
+        "Count": 26
+      },
+      {
+        "Heading": "Environmental Abiotic Degradation",
+        "Type": "Compound",
+        "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+        "Count": 3247
+      },
+      {
+        "Heading": "Environmental Bioconcentration",
+        "Type": "Compound",
+        "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+        "Count": 3182
+      },
+      {
+        "Heading": "Environmental Biodegradation",
+        "Type": "Compound",
+        "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+        "Count": 2373
+      },
+      {
+        "Heading": "Environmental Fate",
+        "Type": "Compound",
+        "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+        "Count": 3301
+      },
+      {
+        "Heading": "Environmental Fate/Exposure Summary",
+        "Type": "Compound",
+        "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+        "Count": 3200
+      },
+      {
+        "Heading": "Environmental Water Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+        "Count": 1688
+      },
+      {
+        "Heading": "Evidence for Carcinogenicity",
+        "Type": "Compound",
+        "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+        "Count": 1441
+      },
+      {
+        "Heading": "Explosive Limits and Potential",
+        "Type": "Compound",
+        "Description": "This section shows lower and upper explosive limits of this chemical and other information on its explosive potential.  Explosive limits specify the concentration range of a material in air which will burn or explode in the presence of an ignition source. There are two types of explosive limits: lower explosive limit (LEL) and upper explosive limit (UEL). The explosive limits are usually given as the percent by volume of the material in the air (e.g., 5%).",
+        "Count": 883
+      },
+      {
+        "Heading": "FDA Requirements",
+        "Type": "Compound",
+        "Description": "FDA requirements regarding this chemical and products containing it.  FDA Requirements means any requirements of the Federal Food, Drug and Cosmetic Act (FDCA), as amended, and any rules or regulations promulgated thereunder which are or may be applicable to the manufacture, sale, labeling or distribution of the products regulated by FDA (e.g., drugs, biologics, dietary supplements, foods, cosmetics, tobacco products, etc.).",
+        "Count": 1822
+      },
+      {
+        "Heading": "FIFRA Requirements",
+        "Type": "Compound",
+        "Description": "The Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) is the Federal statute that governs the registration, distribution, sale, and use of pesticides in the United States.",
+        "Count": 1024
+      },
+      {
+        "Heading": "Federal Drinking Water Guidelines",
+        "Type": "Compound",
+        "Description": "Federal drinking water guidelines (e.g. maximum containment level (MCL)) for this chemical.  In general, these guidelines are recommendations and not legally enforceable.",
+        "Count": 502
+      },
+      {
+        "Heading": "Federal Drinking Water Standards",
+        "Type": "Compound",
+        "Description": "Federal drinking water standards (e.g. maximum containment level (MCL)) for this chemical.  These standards are legally enforceable.",
+        "Count": 355
+      },
+      {
+        "Heading": "Fire Fighting Procedures",
+        "Type": "Compound",
+        "Description": "This section provides information on the actions to be taken in the event of a fire emergency involving this chemical, to prevent the spread of and extinguish fires.",
+        "Count": 2704
+      },
+      {
+        "Heading": "Fire Potential",
+        "Type": "Compound",
+        "Description": "This section describes fire potential of this chemical (e.g., whether it is combustible or flammable).",
+        "Count": 1749
+      },
+      {
+        "Heading": "Firefighting Hazards",
+        "Type": "Compound",
+        "Description": "Hazards associated with firefighting operations (such as smoke, oxygen deficiency, elevated temperatures, and poisonous atmospheres).",
+        "Count": 564
+      },
+      {
+        "Heading": "Fish/Seafood Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this compound in fish or seafood.",
+        "Count": 572
+      },
+      {
+        "Heading": "Flammable Limits",
+        "Type": "Compound",
+        "Description": "The flammable limits (or the flammability limits) are the minimum and maximum concentrations of fuel vapor or gas in a fuel vapor or gas/gaseous oxidant mixture (usually expressed in percent by volume) defining the concentration range (flammable or explosive range) over which propagation of flame will occur on contact with an ignition source.  Also called explosive (or explosivity) limits.",
+        "Count": 424
+      },
+      {
+        "Heading": "Flash Point",
+        "Type": "Compound",
+        "Description": "The lowest temperature at which a liquid can gives off vapor to form an ignitable mixture in air near the surface of the liquid.",
+        "Count": 1277
+      },
+      {
+        "Heading": "Food Survey Values",
+        "Type": "Compound",
+        "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+        "Count": 1070
+      },
+      {
+        "Heading": "Formulations/Preparations",
+        "Type": "Compound",
+        "Description": "Information on Formulations/Preparations of this chemical, collected by the Hazardous Substances Data Bank (HSDB) from various sources.",
+        "Count": 3576
+      },
+      {
+        "Heading": "GHS Classification",
+        "Type": "Compound",
+        "Description": "GHS (Globally Harmonized System of Classification and Labelling of Chemicals) is a United Nations system to identify hazardous chemicals and to inform users about these hazards. GHS has been adopted by many countries around the world and is now also used as the basis for international and national transport regulations for dangerous goods. The GHS hazard statements, class categories, pictograms, signal words, and the precautionary statements can be found on the PubChem GHS page.",
+        "Count": 680
+      },
+      {
+        "Heading": "General Manufacturing Information",
+        "Type": "Compound",
+        "Description": "General manufacturing information for this chemical, provided by the Hazardous Substances Data Bank (HSDB) and EPA TSCA Chemical Substance Inventory.",
+        "Count": 3516
+      },
+      {
+        "Heading": "Hazardous Reactivities and Incompatibilities",
+        "Type": "Compound",
+        "Description": "This compound may undergo hazardous reactions with other chemicals.  Therefore, it is considered incompatible with those chemicals and should not be used with them.",
+        "Count": 2341
+      },
+      {
+        "Heading": "Hazardous Substances DataBank Number",
+        "Type": "Compound",
+        "Description": "Hazardous Substances Databank Number is the DOCNO from HSDB.",
+        "Count": 6060
+      },
+      {
+        "Heading": "Hazards Summary",
+        "Type": "Compound",
+        "Description": "This section provides an overview of the key hazards information of this compound.",
+        "Count": 205
+      },
+      {
+        "Heading": "Heat of Combustion",
+        "Type": "Compound",
+        "Description": "The heat of combustion is the energy released as heat when a compound undergoes complete combustion with oxygen under standard conditions.",
+        "Count": 492
+      },
+      {
+        "Heading": "Heat of Vaporization",
+        "Type": "Compound",
+        "Description": "The heat (or enthalpy) of vaporization is the quantity of heat that must be absorbed if a certain quantity of liquid is vaporized at a constant temperature.",
+        "Count": 704
+      },
+      {
+        "Heading": "Henry's Law Constant",
+        "Type": "Compound",
+        "Description": "Henry's law states that the amount of dissolved gas (in liquid, such as water) is proportional to its partial pressure in the gas phase. The proportionality factor is called the Henry's law constant and defined as the ratio of a compound's partial pressure in air to the concentration of the compound in water at a given temperature.",
+        "Count": 682
+      },
+      {
+        "Heading": "History and Incidents",
+        "Type": "Compound",
+        "Description": "The history and incidents involving the chemical safety and hazards of this compound.",
+        "Count": 295
+      },
+      {
+        "Heading": "Human Toxicity Excerpts",
+        "Type": "Compound",
+        "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+        "Count": 4437
+      },
+      {
+        "Heading": "Human Toxicity Values",
+        "Type": "Compound",
+        "Description": "Quantitative human toxicity values (e.g., lethal dose) for this compound.",
+        "Count": 189
+      },
+      {
+        "Heading": "IR Spectra",
+        "Type": "Compound",
+        "Description": "Infrared spectroscopy (IR spectroscopy) is the spectroscopy that deals with the infrared region of the electromagnetic spectrum extending from 780 nm to about 20000 nm.  The IR spectra tells you what types of vibrational mode (motion) responses occur in a molecule interacting with infrared light.  It is used to help determine the functional groups in a molecule.",
+        "Count": 1837
+      },
+      {
+        "Heading": "Immediately Dangerous to Life or Health (IDLH)",
+        "Type": "Compound",
+        "Description": "The Immediately Dangerous to Life or Health air concentration values (IDLH values) characterize high-risk exposure concentrations and conditions and are used as a component of respirator selection criteria.  IDLH values are established (1) to ensure that the worker can escape from a given contaminated environment in the event of failure of the respiratory protection equipment and (2) to indicate a maximum level above which only a highly reliable breathing apparatus, providing maximum worker protection, is permitted.",
+        "Count": 699
+      },
+      {
+        "Heading": "Impurities",
+        "Type": "Compound",
+        "Description": "Impurities are (unwanted) chemical substances that differ from the compound of interest and can be either naturally occurring or formed during the synthesis of a chemical compound.",
+        "Count": 765
+      },
+      {
+        "Heading": "Interactions",
+        "Type": "Compound",
+        "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+        "Count": 2626
+      },
+      {
+        "Heading": "LogP",
+        "Type": "Compound",
+        "Description": "Log P is the partition coefficient expressed in logarithmic form.  The partition coefficient is the ratio of concentrations of a compound in a mixture of two immiscible solvents at equilibrium.  This ratio is therefore used to compare the solubilities of the solute in these two solvents.  Because octanol and water are the most commonly used pair of solvents for measuring partition coefficients, the Log P values listed in this section refer to octanol/water partition coefficients, unless indicated otherwise.",
+        "Count": 2143
+      },
+      {
+        "Heading": "Maximum Drug Dose",
+        "Type": "Compound",
+        "Description": "The largest amount of drug that most patients can tolerate without severe side effects. ",
+        "Count": 47
+      },
+      {
+        "Heading": "Mechanism of Action",
+        "Type": "Compound",
+        "Description": "In medicine, the term \"mechanism of action\" (also called MOA) is used to describe how a drug or other substance produces an effect in the body. For example, a drug's mechanism of action could be how it affects a specific target in a cell, such as an enzyme, or a cell function, such as cell growth. Knowing the mechanism of action of a drug may help provide information about the safety of the drug and how it affects the body. It may also help identify the right dose of a drug and which patients are most likely to respond to treatment.",
+        "Count": 2494
+      },
+      {
+        "Heading": "Medical Surveillance",
+        "Type": "Compound",
+        "Description": "Medical surveillance information for this compound.  Medical surveillance is the systematic assessment of employees exposed or potentially exposed to occupational hazards. This assessment monitors individuals for adverse health effects and determines the effectiveness of exposure prevention strategies.",
+        "Count": 1035
+      },
+      {
+        "Heading": "Melting Point",
+        "Type": "Compound",
+        "Description": "This section provides the melting point and/or freezing point. The melting point is the temperature at which a substance changes state from solid to liquid at atmospheric pressure. When considered as the temperature of the reverse change (from liquid to solid), it is referred to as the freezing point.",
+        "Count": 4109
+      },
+      {
+        "Heading": "Metabolism/Metabolites",
+        "Type": "Compound",
+        "Description": "Metabolites are substances made or used when the body breaks down food, drugs or chemicals, or its own tissue (for example, fat or muscle tissue). This process is called metabolism and makes energy and the materials needed for growth, reproduction, and maintaining health. Metabolism also helps get rid of toxic substances.",
+        "Count": 3220
+      },
+      {
+        "Heading": "Methods of Manufacturing",
+        "Type": "Compound",
+        "Description": "Methods of producing this compound in an industrial scale, provided by the Hazardous Substances Data Bank (HSDB).",
+        "Count": 4803
+      },
+      {
+        "Heading": "Milk Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this compound in milk.",
+        "Count": 803
+      },
+      {
+        "Heading": "Molecular Formula",
+        "Type": "Compound",
+        "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+        "Count": 5743
+      },
+      {
+        "Heading": "Molecular Weight",
+        "Type": "Compound",
+        "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+        "Count": 5585
+      },
+      {
+        "Heading": "NFPA Hazard Classification",
+        "Type": "Compound",
+        "Description": "The National Fire Protection Association (NFPA) Hazard Classification (also known as NFPA 704) provides a simple, readily recognized, easily understood system for identifying the specific hazards of a material and the severity of the hazard that would occur during an emergency response. The system addresses the health, flammability, instability, and special hazards presented from short-term, acute exposures that could occur as a result of a fire, spill, or similar emergency.",
+        "Count": 840
+      },
+      {
+        "Heading": "NIOSH Recommendations",
+        "Type": "Compound",
+        "Description": "The National Institute for Occupational Safety and Health (NIOSH) recommendations for chemical safety concerning this compound.",
+        "Count": 1006
+      },
+      {
+        "Heading": "National Toxicology Program Studies",
+        "Type": "Compound",
+        "Description": "Reports from the National Toxicology Program, an interagency program supported by three government agencies (NIH, FDA, and CDC) within the Department of Health and Human Services.  This program plays a critical role in generating, interpreting, and sharing toxicological information about chemicals of public health concerns.",
+        "Count": 621
+      },
+      {
+        "Heading": "Natural Pollution Sources",
+        "Type": "Compound",
+        "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+        "Count": 1538
+      },
+      {
+        "Heading": "Non-Human Toxicity Excerpts",
+        "Type": "Compound",
+        "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+        "Count": 5007
+      },
+      {
+        "Heading": "Non-Human Toxicity Values",
+        "Type": "Compound",
+        "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+        "Count": 3124
+      },
+      {
+        "Heading": "OSHA Standards",
+        "Type": "Compound",
+        "Description": "Occupational Safety and Health Administration (OSHA) standards are rules that describe the methods that employers must use to protect their employees from hazards. These standards limit the amount of hazardous chemicals workers can be exposed to, require the use of certain safe practices and equipment, and require employers to monitor hazards and keep records of workplace injuries and illnesses.",
+        "Count": 851
+      },
+      {
+        "Heading": "Odor",
+        "Type": "Compound",
+        "Description": "The property of certain chemicals, in very small concentrations, to stimulate chemical sense receptors that sample the air or water.",
+        "Count": 2356
+      },
+      {
+        "Heading": "Odor Threshold",
+        "Type": "Compound",
+        "Description": "The odor (detection) threshold is the lowest concentration of a certain odor compound that is perceivable by the human sense of smell.",
+        "Count": 433
+      },
+      {
+        "Heading": "Ongoing Test Status",
+        "Type": "Compound",
+        "Description": "Toxicity test status of this chemical, performed by authoritative entities (e.g., government agencies).",
+        "Count": 1152
+      },
+      {
+        "Heading": "Optical Rotation",
+        "Type": "Compound",
+        "Description": "Optical rotation is a property of chiral substances that is expressed as the angle to which the material causes polarized light to rotate at a particular temperature, wavelength, and concentration.",
+        "Count": 457
+      },
+      {
+        "Heading": "Other Environmental Concentrations",
+        "Type": "Compound",
+        "Description": "Other environmental concentrations reported for this chemical.",
+        "Count": 854
+      },
+      {
+        "Heading": "Other Experimental Properties",
+        "Type": "Compound",
+        "Description": "Other experimental properties of this chemical.",
+        "Count": 4008
+      },
+      {
+        "Heading": "Other Hazardous Reactions",
+        "Type": "Compound",
+        "Description": "Other hazardous reactions involving this compound.",
+        "Count": 311
+      },
+      {
+        "Heading": "Other MS",
+        "Type": "Compound",
+        "Description": "This section provides this compound's mass spectrometry (MS) information that is not shown in other sections.",
+        "Count": 1754
+      },
+      {
+        "Heading": "Other Spectra",
+        "Type": "Compound",
+        "Description": "Spectral information for this compound that is not shown in other sections.",
+        "Count": 881
+      },
+      {
+        "Heading": "Other Standards Regulations and Guidelines",
+        "Type": "Compound",
+        "Description": "Safety and hazard standards, regulations, and guidelines for this this compound that is not shown in other sections.",
+        "Count": 700
+      },
+      {
+        "Heading": "Personal Protective Equipment (PPE)",
+        "Type": "Compound",
+        "Description": "Personal protective equipment (PPE) to use when handling this chemical.",
+        "Count": 3083
+      },
+      {
+        "Heading": "Plant Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this compound in plants.",
+        "Count": 746
+      },
+      {
+        "Heading": "Polymerization",
+        "Type": "Compound",
+        "Description": "Polymerization is a process of reacting monomer molecules together in a chemical reaction to form polymer chains or three-dimensional networks.",
+        "Count": 174
+      },
+      {
+        "Heading": "Populations at Special Risk",
+        "Type": "Compound",
+        "Description": "People within the general population vary greatly in their sensitivity to chemical agents on an individual or mixture basis.  Some segments of the general population may be at greatest risk for adverse outcomes.  Well-known groups at special risk include children, women of childbearing age, the elderly and are also defined by nutritional status, occupations, contamination of local food supplies, gender and genetic inheritance.",
+        "Count": 1150
+      },
+      {
+        "Heading": "Preventive Measures",
+        "Type": "Compound",
+        "Description": "Preventive measures to take to avoid suffering negative health effects from this chemical.",
+        "Count": 3433
+      },
+      {
+        "Heading": "Probable Routes of Human Exposure",
+        "Type": "Compound",
+        "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+        "Count": 3674
+      },
+      {
+        "Heading": "RCRA Requirements",
+        "Type": "Compound",
+        "Description": "The Resource Conservation and Recovery Act (RCRA) is the public law that creates the framework for the proper management of hazardous and non-hazardous solid waste. The law describes the waste management program mandated by Congress that gave EPA authority to develop the RCRA program. The term RCRA is often used interchangeably to refer to the law, regulations and EPA policy and guidance.",
+        "Count": 621
+      },
+      {
+        "Heading": "Radiation Limits and Potential",
+        "Type": "Compound",
+        "Description": "Compounds with radiation potential have unstable radioactive isotope(s), which can emit high-energy ionizing radiation through radioactive decay.  Radiation limits are the permissible upper bounds of radiation doses. An example of radiation limits is the annual limit on intake (ALI), which is the limit for the amount of radioactive material taken into the body of an adult worker by inhalation or ingestion in a year.",
+        "Count": 46
+      },
+      {
+        "Heading": "Raman Spectra",
+        "Type": "Compound",
+        "Description": "Raman spectroscopy is a spectroscopic technique typically used to study vibrational modes of a molecular system, although it can also be used to observe rotational and other low-frequency modes of the system.  Raman spectroscopy is based on inelastic scattering of photons, known as Raman scattering.",
+        "Count": 253
+      },
+      {
+        "Heading": "Refractive Index",
+        "Type": "Compound",
+        "Description": "The refractive index (also called index of refraction) of an optical medium is a dimensionless number that quantifies the light-bending ability of that medium.",
+        "Count": 1808
+      },
+      {
+        "Heading": "Relative Evaporation Rate",
+        "Type": "Compound",
+        "Description": "The rate at which a material will vaporize (evaporate, change from liquid to vapor), compared to the rate of vaporization of a specific known material.",
+        "Count": 141
+      },
+      {
+        "Heading": "Reported Fatal Dose",
+        "Type": "Compound",
+        "Description": "The fatal dose (also called lethal dose) is the amount of a chemical that is likely to cause death; it varies in relation to the type of animal and the route of administration.  This section provides information on the fatal human dose from the Hazardous Substances Data Bank (HSDB).",
+        "Count": 493
+      },
+      {
+        "Heading": "Sampling Procedures",
+        "Type": "Compound",
+        "Description": "Sampling procedures for the safety and hazard evaluation of this chemical in the workplace and other places.",
+        "Count": 549
+      },
+      {
+        "Heading": "Sediment/Soil Concentrations",
+        "Type": "Compound",
+        "Description": "Concentrations of this compound in sediment/soil. ",
+        "Count": 880
+      },
+      {
+        "Heading": "Shipment Methods and Regulations",
+        "Type": "Compound",
+        "Description": "Shipment methods and regulations of this compound.  The information in this section includes the U.S. Hazardous Materials Regulations (49 CFR Subchapter C), the International Air Transport Association (IATA) Dangerous Goods Regulations, the International Maritime Dangerous Goods (IMDG) Code, and other regulations.",
+        "Count": 1678
+      },
+      {
+        "Heading": "Shipping Name/ Number DOT/UN/NA/IMO",
+        "Type": "Compound",
+        "Description": "When dangerous goods are transported/shipped, one of the proper shipping names (along with corresponding identification numbers) shown in Dangerous Goods List of the applicable transport regulations (e.g., IATA-DGR, IMO-IMDG code, and 49 CFR 171-180) must be used to meet labelling, marking, and documentation requirements.  This section provides this chemical's appropriate shipping names and identification numbers, such as the U.S. Department of Transportation (DOT) identification number (also known as \"United Nations (UN) number\" or \"North America (NA) number\") and the International Maritime Organization (IMO)'s International Maritime Dangerous Goods (IMDG) Code.",
+        "Count": 1413
+      },
+      {
+        "Heading": "Skin, Eye, and Respiratory Irritations",
+        "Type": "Compound",
+        "Description": "Skin, eye and respiratory irritations caused by exposure to this chemical.",
+        "Count": 2195
+      },
+      {
+        "Heading": "Soil Adsorption/Mobility",
+        "Type": "Compound",
+        "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+        "Count": 3148
+      },
+      {
+        "Heading": "Soil Standards",
+        "Type": "Compound",
+        "Description": "Soil Standards information",
+        "Count": 2
+      },
+      {
+        "Heading": "Solubility",
+        "Type": "Compound",
+        "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+        "Count": 4719
+      },
+      {
+        "Heading": "Special Reports",
+        "Type": "Compound",
+        "Description": "Special reports on the safety and hazard of this chemical.  Most of them are government documents and review articles.",
+        "Count": 2453
+      },
+      {
+        "Heading": "Stability/Shelf Life",
+        "Type": "Compound",
+        "Description": "Tendency of a material to resist change or decomposition due to internal reaction, or due to the action of air, heat, light, pressure, etc. See also the Stability and Reactivity subsection under the Safety and Hazards section on this page (when available).",
+        "Count": 2469
+      },
+      {
+        "Heading": "Standard Transportation Number",
+        "Type": "Compound",
+        "Description": "This section provides the Standard Transportation Commodity Code (STCC) for this chemical.  The STCC is a seven digit numeric code representing 38 commodity groupings and used on waybills and other shipping documents.  If the first two digits of an STCC are 48 or 49, the STCC is also called the Hazardous Materials Response Code (HMRC) or Hazmat STCC, and is used when transporting a hazardous material or dangerous good by rail in North America. ",
+        "Count": 771
+      },
+      {
+        "Heading": "State Drinking Water Guidelines",
+        "Type": "Compound",
+        "Description": "State drinking water guidelines (e.g. maximum containment level (MCL)) for this chemical.  In general, these guidelines are recommendations and not legally enforceable.",
+        "Count": 836
+      },
+      {
+        "Heading": "State Drinking Water Standards",
+        "Type": "Compound",
+        "Description": "State drinking water standards (e.g. maximum containment level (MCL)) for this chemical.  These standards are legally enforceable.",
+        "Count": 286
+      },
+      {
+        "Heading": "Storage Conditions",
+        "Type": "Compound",
+        "Description": "Conditions for safe storage of this compound, including any incompatible chemicals and specific storage requirements (e.g., ventilation requirements).",
+        "Count": 3087
+      },
+      {
+        "Heading": "Surface Tension",
+        "Type": "Compound",
+        "Description": "Surface tension is a contractive tendency of the surface of a liquid that allows it to resist an external force. It is measured as the energy required to increase the surface area of a liquid by a unit of area.",
+        "Count": 535
+      },
+      {
+        "Heading": "TSCA Requirements",
+        "Type": "Compound",
+        "Description": "This section provides information on requirements concerning this chemical under the Toxic Substances Control Act (TSCA) of 1976.  TSCA provides EPA with authority to require reporting, record-keeping and testing requirements, and restrictions relating to chemical substances and/or mixtures. Certain substances are generally excluded from TSCA, including, among others, food, drugs, cosmetics and pesticides.",
+        "Count": 605
+      },
+      {
+        "Heading": "TSCA Test Submissions",
+        "Type": "Compound",
+        "Description": "Under the Toxic Substances Control Act (TSCA), EPA has broad authority to issue regulations designed to require manufacturers (including importers) or processors to test chemical substances and mixtures for health and environmental effects.  This section provides information on test reports submitted for this chemical under TSCA.",
+        "Count": 479
+      },
+      {
+        "Heading": "Taste",
+        "Type": "Compound",
+        "Description": "The sensation of flavor perceived in the mouth and throat on contact with a substance.",
+        "Count": 754
+      },
+      {
+        "Heading": "Therapeutic Uses",
+        "Type": "Compound",
+        "Description": "Therapeutic uses information for this compound, provided by the Hazardous Substances Data Bank (HSDB).",
+        "Count": 1999
+      },
+      {
+        "Heading": "Threshold Limit Values (TLV)",
+        "Type": "Compound",
+        "Description": "The threshold limit value (TLV) of a chemical is an airborne concentration at which a worker can be exposed day after day for a working lifetime without adverse effect.  There are three types of TLVs for chemicals. [1] Threshold limit value - time-weighted average (TLV-TWA): average exposure on the basis of a 8h/day, 40h/week work schedule. [2] Threshold limit value - short-term exposure limit (TLV-STEL): a 15-minute TWA exposure that should not be exceeded at any time during a workday, even if the 8-hour TWA is within the TLV-TWA. [3] Threshold limit value - ceiling limit (TLV-C): absolute exposure limit that should not be exceeded at any time. TLVs are developed by the American Conference of Governmental Industrial Hygienist.  While TLVs are widely accepted occupational exposure limits, they are not standards enforced by the U.S. Government.",
+        "Count": 1169
+      },
+      {
+        "Heading": "Toxic Combustion Products",
+        "Type": "Compound",
+        "Description": "Toxic products (e.g., gases and vapors) produced from the combustion of this chemical.",
+        "Count": 1437
+      },
+      {
+        "Heading": "Toxicity Summary",
+        "Type": "Compound",
+        "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+        "Count": 1408
+      },
+      {
+        "Heading": "U.S. Exports",
+        "Type": "Compound",
+        "Description": "The amount of this chemical exported from the U.S.",
+        "Count": 937
+      },
+      {
+        "Heading": "U.S. Imports",
+        "Type": "Compound",
+        "Description": "The amount of this chemical imported to the U.S.",
+        "Count": 1405
+      },
+      {
+        "Heading": "U.S. Production",
+        "Type": "Compound",
+        "Description": "The amount of this chemical produced/manufactured in the U.S.",
+        "Count": 2746
+      },
+      {
+        "Heading": "UV Spectra",
+        "Type": "Compound",
+        "Description": "Ultraviolet (UV) spectroscopy (or Spectrophotometry) is an analytical technique used to measure how much a molecule absorbs light in the ultraviolet spectral region.  This technique is particularly useful to study aromatic, conjugated, and other substances containing a pi bond.  Modern ultraviolet spectrophotometers also cover the visible light range, in which case the technique is called ultraviolet-visible (UV-Vis) spectroscopy.",
+        "Count": 1585
+      },
+      {
+        "Heading": "Uses",
+        "Type": "Compound",
+        "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+        "Count": 5587
+      },
+      {
+        "Heading": "Vapor Density",
+        "Type": "Compound",
+        "Description": "The density of a gas or vapor relative to that of the reference gas.  While some resources use the hydrogen gas as the reference gas for the vapor density calculation, many resources (particularly in relation to safety considerations at commercial and industrial facilities in the U.S.) defines the vapor density with respect to the density of air, which has an arbitrary value of one.  If a gas has a vapor density of less than one it will generally rise in air. If the vapor density is greater than one the gas will generally sink in air.",
+        "Count": 885
+      },
+      {
+        "Heading": "Vapor Pressure",
+        "Type": "Compound",
+        "Description": "Vapor pressure (or equilibrium vapor pressure) is the pressure of a vapor in thermodynamic equilibrium with its condensed phases in a closed system.",
+        "Count": 2275
+      },
+      {
+        "Heading": "Viscosity",
+        "Type": "Compound",
+        "Description": "Viscosity is a measure of a fluid's resistance to flow. It describes the internal friction of a moving fluid.",
+        "Count": 683
+      },
+      {
+        "Heading": "Volatilization from Water/Soil",
+        "Type": "Compound",
+        "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+        "Count": 3127
+      },
+      {
+        "Heading": "pH",
+        "Type": "Compound",
+        "Description": "pH is an expression of hydrogen ion concentration in water. Specifically, pH is the negative logarithm of hydrogen ion (H+) concentration (mol/L) in an aqueous solution. The term is used to indicate basicity or acidity of a solution on a scale of 0 to 14, with pH 7 being neutral.",
+        "Count": 618
+      }
+    ]
+  }
+}

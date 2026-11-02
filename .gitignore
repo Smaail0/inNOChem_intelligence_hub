@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+venv/
+venv310/
+
+frontend/node_modules/
+frontend/dist/
+
+data/cache/
+data/rag/index/
+models/
+
+.env
+
+
+# Large or non-redistributable data (regenerate locally)
+data/knowledge/pubchem_synonyms.sqlite
+data/raw/
+data/rag/source_docs/
+*.log

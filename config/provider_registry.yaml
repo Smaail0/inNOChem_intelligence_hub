@@ -1,0 +1,64 @@
+providers:
+  pubchem:
+    label: PubChem / RDKit
+    category: identity
+    aliases:
+      - pubchem
+      - rdkit
+      - pubchem_rdkit
+
+  hsdb:
+    label: HSDB
+    category: safety
+    aliases:
+      - hsdb
+      - pubchem_hsdb
+      - pubchem_pug_view_hsdb
+
+  chem21:
+    label: CHEM21
+    category: sustainability
+    aliases:
+      - chem21
+      - chem_21
+
+  gsk:
+    label: GSK
+    category: sustainability
+    aliases:
+      - gsk
+      - gsk_solvent_sustainability_guide
+
+  reach:
+    label: REACH
+    category: regulatory
+    aliases:
+      - reach
+      - echa_reach
+
+  svhc:
+    label: SVHC
+    category: regulatory
+    aliases:
+      - svhc
+      - candidate_list
+
+  clp:
+    label: CLP
+    category: regulatory
+    aliases:
+      - clp
+
+  dot:
+    label: DOT
+    category: regulatory
+    aliases:
+      - dot
+      - us_dot
+
+  rag_evidence:
+    label: RAG Evidence
+    category: evidence
+    aliases:
+      - rag
+      - rag_evidence
